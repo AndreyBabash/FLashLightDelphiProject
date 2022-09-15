@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\TIGER\Desktop\FlashLight_Rio\Main.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.887,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\TIGER\Desktop\FlashLight_Rio\Main.fmx</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.479,C:\Users\TIGER\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\TIGER\Desktop\FlashLight_Rio\FlashLight_RIO.dproj</Transaction>
+  </Transactions>  <ActiveMobileDevice>   <NoProfile Android=""/>
+  </ActiveMobileDevice>
+</BorlandProject>
